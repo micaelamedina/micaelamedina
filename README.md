@@ -3,17 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=micaelamedina&label=Profile%20views&color=0e75b6&style=flat" alt="micaelamedina" /> </p>
 
-- ● Diseñar y desarrollar en un equipo conformado por un total de 7 integrantes un E-Commerce de indumentaria masculina y femenina que incluía: carrito de compras, plataforma de pago Mercado Pago, perfil del usuario, perfil de administrador con permisos especiales, historial de compras/ventas, descarga de órdenes de compra en PDF, búsquedas por parámetros, filtrados por categorías, ordenamientos y creación de nuevos productos. ● Desarrollar la app usando para el Front-End React, Redux, CSS puro y Back-End desarrollado en Node.js con Express. Base de datos en PostgreSQL y Sequelize. ● Complementar funcionalidades en colaboración de otros colegas para el área de Front-End. ● Aportar funcionalidades destacadas: Local Storage (para persistir los datos de la sesión en curso y/o el dispositivo que se esté utilizando) y descarga de orden de compra en formato PDF en Front-End. ● Cooperar en Deploy del proyecto usando para Back-End Heroku CLI y para Front-End con Vercel. [Clothes 22](https://clothes-22.vercel.app/)
+
 
 - 🌱 Actualmente estoy estudiando **Tecnicatura Superior en Desarrollo Web y Aplicaciones Digitales**
 
-- ● Diseñar y desarrollar una App de comidas que incluía: búsquedas por parámetros, filtrados por categorías, ordenamientos y creación de nuevos productos. ● Desarrollar la app usando para el Front-End React, Redux, CSS puro y Back-End desarrollado en Node.js con Express. Base de datos en PostgreSQL y Sequelize. [Food App](https://food-pi-micaelamedina.vercel.app/)
 
 - 📫 Contáctame vía mail **micadm237@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/micaela-medina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="micaela-medina" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/medina-micaela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="medina-micaela" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
