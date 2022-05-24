@@ -6,8 +6,9 @@
 - 🌱 Actualmente estoy estudiando **Tecnicatura Superior en Desarrollo Web y Aplicaciones Digitales**.
 
 <h3 align="left">Mis proyectos:</h3>
-- Para mi proyecto individual de Henry logré el desarrollo de una SPA (Single Page Application) utilizando ReactJs y Redux para Front-End y el área de Back-End fue desarrollada con NodeJs, Express y Sequelize. La aplicación cuenta con una página principal donde se pueden visualizar todas las recetas, la posibilidad de entrar al detalle de alguna en particular, filtrar por diferentes tipos de dietas, ordenar por puntaje y alfabéticamente; permite también la búsqueda por nombre y recorrer el catálogo en diversas páginas. El usuario también cuenta con la posibilidad de crear una nueva receta y añadirla a la base de datos. El estilo de los componentes fue realizado sin uso de librerias externas, para los mismos se empleo CSS puro [Link Food App](https://food-pi-micaelamedina.vercel.app/)
-- 📲 Contáctame vía Whatsapp **+54934133800225** o [Link directo a Whatsapp!](https://wa.me/5493413380025/)
+- Para mi proyecto individual de Henry logré el desarrollo de una SPA (Single Page Application) utilizando ReactJs y Redux para Front-End y el área de Back-End fue desarrollada con NodeJs, Express y Sequelize. La aplicación cuenta con una página principal donde se pueden visualizar todas las recetas, la posibilidad de entrar al detalle de alguna en particular, filtrar por diferentes tipos de dietas, ordenar por puntaje y alfabéticamente; permite también la búsqueda por nombre y recorrer el catálogo en diversas páginas. El usuario también cuenta con la posibilidad de crear una nueva receta y añadirla a la base de datos. El estilo de los componentes fue realizado sin uso de librerias externas, para los mismos se empleo CSS puro 
+- Conoce la Food App desde [acá](https://food-pi-micaelamedina.vercel.app/)
+
 <h3 align="left">Conecta conmigo vía Linkedin:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/micaela-medina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="micaela-medina" height="30" width="40" /></a>
