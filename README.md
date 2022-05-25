@@ -10,7 +10,7 @@
 
 <h3 align="left">Conecta conmigo vía Linkedin:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/micaela-medina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="micaela-medina" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/medina-micaela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="medina-micaela" height="30" width="40" /></a>
 </p>
 
 - 📫 Contáctame vía mail **micadm237@gmail.com** 
