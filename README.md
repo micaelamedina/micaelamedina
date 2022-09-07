@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Micaela</h1>
-<h3 align="center">Soy Desarrolladora Full Stack con orientación en Front-End 🚀 , recientemente graduada del Bootcamp intensivo de Henry👩🏻‍🎓🎓 y estudiante de la Tecnicatura Superior en Desarrollo Web y Aplicaciones Digitales.💻</h3>
+<h3 align="center">Soy Desarrolladora Full Stack 🚀 graduada del Bootcamp intensivo de Henry👩🏻‍🎓🎓 y estudiante de la Tecnicatura Superior en Desarrollo Web y Aplicaciones Digitales.💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=micaelamedina&label=Profile%20views&color=0e75b6&style=flat" alt="micaelamedina" /> </p>
 
